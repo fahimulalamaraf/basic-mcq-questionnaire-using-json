@@ -1,0 +1,106 @@
+[{"question_text": "What are dolphins?",
+  "alternatives": ["Amphibians", "Fish", "Mammals", "Birds"],
+  "correct_answer": 3},
+{"question_text": "What occupies most of the Earths surface?",
+  "alternatives": ["Water","Land"],
+  "correct_answer": 1},
+{
+    "question_text": "What is the largest planet in our solar system?",
+    "alternatives": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correct_answer": 3
+  },
+  {
+    "question_text": "What is the process by which plants make their food called?",
+    "alternatives": ["Respiration", "Photosynthesis", "Digestion", "Transpiration"],
+    "correct_answer": 2
+  },
+  {
+    "question_text": "Which part of the human body controls balance?",
+    "alternatives": ["Heart", "Lungs", "Inner ear", "Stomach"],
+    "correct_answer": 3
+  },
+  {
+    "question_text": "Which planet is known as the Red Planet?",
+    "alternatives": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "correct_answer": 3
+  },
+  {
+    "question_text": "What is the chemical symbol for water?",
+    "alternatives": ["O2", "H2O", "CO2", "N2"],
+    "correct_answer": 2
+  },
+  {
+    "question_text": "What gas do plants absorb from the atmosphere?",
+    "alternatives": ["Oxygen", "Nitrogen", "Carbon dioxide", "Methane"],
+    "correct_answer": 3
+  },
+  {
+    "question_text": "Who wrote 'Romeo and Juliet'?",
+    "alternatives": ["Charles Dickens", "Mark Twain", "William Shakespeare", "Jane Austen"],
+    "correct_answer": 3
+  },
+  {
+    "question_text": "What is the main ingredient in guacamole?",
+    "alternatives": ["Tomato", "Avocado", "Lettuce", "Cucumber"],
+    "correct_answer": 2
+  },
+  {
+    "question_text": "Which is the largest mammal on Earth?",
+    "alternatives": ["Elephant", "Giraffe", "Blue Whale", "Hippopotamus"],
+    "correct_answer": 3
+  },
+  {
+    "question_text": "Which element is necessary for the production of nuclear energy?",
+    "alternatives": ["Carbon", "Uranium", "Oxygen", "Nitrogen"],
+    "correct_answer": 2
+  },
+  {
+    "question_text": "What is the hardest natural substance on Earth?",
+    "alternatives": ["Gold", "Iron", "Diamond", "Quartz"],
+    "correct_answer": 3
+  },
+  {
+    "question_text": "What is the capital city of Japan?",
+    "alternatives": ["Kyoto", "Osaka", "Tokyo", "Nagasaki"],
+    "correct_answer": 3
+  },
+  {
+    "question_text": "In which continent is the Sahara Desert located?",
+    "alternatives": ["Asia", "Africa", "Australia", "South America"],
+    "correct_answer": 2
+  },
+  {
+    "question_text": "Which organ in the human body is responsible for pumping blood?",
+    "alternatives": ["Lungs", "Heart", "Liver", "Brain"],
+    "correct_answer": 2
+  },
+  {
+    "question_text": "What is the freezing point of water?",
+    "alternatives": ["0°C", "100°C", "50°C", "-10°C"],
+    "correct_answer": 1
+  },
+  {
+    "question_text": "Which animal is known for its black and white stripes?",
+    "alternatives": ["Leopard", "Giraffe", "Zebra", "Tiger"],
+    "correct_answer": 3
+  },
+  {
+    "question_text": "What is the main gas in the Earth's atmosphere?",
+    "alternatives": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+    "correct_answer": 2
+  },
+  {
+    "question_text": "What is the smallest unit of life?",
+    "alternatives": ["Atom", "Molecule", "Cell", "Organ"],
+    "correct_answer": 3
+  },
+  {
+    "question_text": "Which instrument is used to measure temperature?",
+    "alternatives": ["Barometer", "Thermometer", "Stethoscope", "Odometer"],
+    "correct_answer": 2
+  },
+  {
+    "question_text": "Which metal is liquid at room temperature?",
+    "alternatives": ["Gold", "Mercury", "Silver", "Iron"],
+    "correct_answer": 2
+  }]
